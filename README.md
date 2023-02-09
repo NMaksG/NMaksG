@@ -8,6 +8,15 @@
 
 ### *Изученные технологии:*
 
+<img src="../NMaksG/icon/html5-original.svg" title="html" alt="html" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/react-original.svg" title="react" alt="react" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/git-original.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%">
+<img src="../NMaksG/icon/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%">
 
 ### *Статистика:*
 
